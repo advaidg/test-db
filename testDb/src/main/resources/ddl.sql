@@ -1,0 +1,23 @@
+CREATE TABLE your_table (
+    id NUMBER PRIMARY KEY,
+    value1 VARCHAR2(255),
+    value2 VARCHAR2(255),
+    value3 VARCHAR2(255),
+    value4 VARCHAR2(255),
+    value5 VARCHAR2(255),
+    value6 VARCHAR2(255),
+    value7 VARCHAR2(255),
+    value8 VARCHAR2(255),
+    value9 VARCHAR2(255),
+    value10 VARCHAR2(255),
+    value11 VARCHAR2(255),
+    value12 VARCHAR2(255),
+    value13 VARCHAR2(255),
+    value14 VARCHAR2(255),
+    value15 VARCHAR2(255),
+    value16 VARCHAR2(255),
+    value17 VARCHAR2(255),
+    value18 VARCHAR2(255),
+    value19 VARCHAR2(255),
+    value20 VARCHAR2(255)
+);
